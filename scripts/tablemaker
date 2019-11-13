@@ -1,0 +1,17 @@
+#!/bin/bash
+
+DB="/tmp/companies.db"
+
+[[ -e $DB ]] && rm $DB
+
+sqlite3 "$DB" ".mode csv" ".headers on" ".import companies.csv companies"
+
+sqlite3 "$DB" <<EOF # | column -t -s "|"
+.print "SECTOR|COUNT"
+.print "-|-"
+SELECT sector, COUNT(name)
+FROM companies
+GROUP BY sector;
+SELECT "TOTAL",COUNT(name)
+FROM companies
+EOF
