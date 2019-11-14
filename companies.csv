@@ -1,37 +1,49 @@
 Name,Sector
+Acme Corp,Retail
 Almazan,Retail
-BADASF,Chemical
+BADASF,PharmaChem
 Barstuck’s,Retail
 Blubway,Retail
+Bluth Company,Finance
 Boyota,Automotive
+Bubba Gump,Retail
 Bugger Kong,Retail
-BurP,Chemical
+BurP,PharmaChem
+Buy ’n’ Large,Technology
 Carblays,Finance
+Central Perk,Retail
+Cyberdyne,Technology
 Dorf,Automotive
-DuPoint,Chemical
+DuPoint,PharmaChem
 Dull,Technology
-Eljee,Chemical
-Exxoff,Chemical
+Eljee,PharmaChem
+Exxoff,PharmaChem
 Facedata,Technology
-Fizer,Pharma
+Fizer,PharmaChem
 Flloyds,Finance
 Fresco,Retail
 Frisco,Technology
-Goctor & Pramble,Pharma
+Goctor & Pramble,PharmaChem
 Goggle,Technology
 Grapple,Technology
+Gringotts,Finance
 Hasda,Retail
+Hermanos,Retail
 Jagucar,Automotive
-Johanson,Pharma
+Johanson,PharmaChem
+Krusty Krab,Retail
 Lowundai,Automotive
 Macrosoft,Technology
 Major Motors,Automotive
-Marck,Pharma
+Marck,PharmaChem
 McRonalds,Retail
 Mike,Retail
 Mistercard,Finance
-Mitsusushi,Chemical
+Mitsusushi,PharmaChem
+MomCorp,Technology
+Monsters, Inc,PharmaChem
 Morridaughters,Retail
+Multilever,Retail
 Nessels,Retail
 Nestlay,Retail
 Ninecent,Entertainment
@@ -40,12 +52,13 @@ Notflix,Entertainment
 Outel,Technology
 Overcast,Entertainment
 Peoplescar,Automotive
-Reckitt & Spill,Chemical
+Pritchett,Retail
+Reckitt & Spill,PharmaChem
 Rosewait,Retail
-Rosh,Pharma
+Rosh,PharmaChem
 Samesong,Technology
 Santadares,Finance
-Shill,Chemical
+Shill,PharmaChem
 ShowMi,Technology
 Ski,Entertainment
 Skynet,Technology
@@ -55,4 +68,6 @@ Time Warmer,Entertainment
 Umbrella,Technology
 Vista,Finance
 Walt Doesney,Entertainment
+Wartmart,Retail
+Wonka Industries,Retail
 Wowway,Technology
