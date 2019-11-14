@@ -1,6 +1,6 @@
-# Fictitious Companies
+# Fictitional Company Names
 
-This is a CSV list of fictitious companies categorised by sector. Any
+This is a CSV list of fictional companies categorised by sector. Any
 similarities to real world businesses is entirely coincidental.
 
 The repository also contains some scripts used in the maintenance of
