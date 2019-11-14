@@ -8,16 +8,15 @@ the list and repo.
 
 ## Sectors
 
-SECTOR        | COUNT
-------------- | -----
-Automotive    |     5
-Chemical      |     2
-Entertainment |     2
-Finance       |     3
-Pharma        |     1
-Retail        |     8
-Technology    |    10
-TOTAL         |    31
+SECTOR|COUNT
+-|-
+Automotive|7
+Entertainment|6
+Finance|8
+PharmaChem|14
+Retail|22
+Technology|15
+TOTAL|72
 
 ## Data Source
 
