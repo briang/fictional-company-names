@@ -1,5 +1,6 @@
 Name,Sector
 Acme Corp,Retail
+Aligaga,Retail
 Almazan,Retail
 BADASF,PharmaChem
 Barstuck’s,Retail
@@ -13,13 +14,20 @@ Buy ’n’ Large,Technology
 Carblays,Finance
 Central Perk,Retail
 Cyberdyne,Technology
+DAFT,Automotive
 Dorf,Automotive
+Drinkeo,Retail
 DuPoint,PharmaChem
 Dull,Technology
+EA Spits,Entertainment
 Eljee,PharmaChem
 Exxoff,PharmaChem
 Facedata,Technology
+Faxihal,Finance
+Fennec,Entertainment
+Fido,Automotive
 Fizer,PharmaChem
+Flat,Automotive
 Flloyds,Finance
 Fresco,Retail
 Frisco,Technology
@@ -29,9 +37,11 @@ Grapple,Technology
 Gringotts,Finance
 Hasda,Retail
 Hermanos,Retail
+Irving Media,Entertainment
 Jagucar,Automotive
 Johanson,PharmaChem
 Krusty Krab,Retail
+Loland,Automotive
 Lowundai,Automotive
 Macrosoft,Technology
 Major Motors,Automotive
@@ -52,8 +62,11 @@ Notflix,Entertainment
 Outel,Technology
 Overcast,Entertainment
 Peoplescar,Automotive
+Porsh,Automotive
 Pritchett,Retail
+Purjo,Automotive
 Reckitt & Spill,PharmaChem
+Ren-o,Automotive
 Rosewait,Retail
 Rosh,PharmaChem
 Samesong,Technology
@@ -63,11 +76,15 @@ ShowMi,Technology
 Ski,Entertainment
 Skynet,Technology
 Southern Rock,Finance
-Sparks and Mencer,Retail
+Spamdirect,Retail
+Sparks & Mencer,Retail
 Time Warmer,Entertainment
 Umbrella,Technology
 Vista,Finance
+Vulva,Automotive
+WOMAN,Automotive
 Walt Doesney,Entertainment
 Wartmart,Retail
+Watercloset Pooper,Finance
 Wonka Industries,Retail
 Wowway,Technology
