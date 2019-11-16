@@ -1,9 +1,15 @@
 Name,Sector
 Acme Corp,Retail
+Alda,Retail
 Aligaga,Retail
 Almazan,Retail
 BADASF,PharmaChem
+BadBlokes,Betting
+Ballbuster,Entertainment
 Barstuck’s,Retail
+Bet247,Betting
+Betunfair,Betting
+Bill Hill,Betting
 Blubway,Retail
 Bluth Company,Finance
 Boyota,Automotive
@@ -13,8 +19,12 @@ BurP,PharmaChem
 Buy ’n’ Large,Technology
 Carblays,Finance
 Central Perk,Retail
+Citrus,Automotive
+Corral,Betting
 Cyberdyne,Technology
 DAFT,Automotive
+Debt Direct,Finance
+DirectFirst,Finance
 Dorf,Automotive
 Drinkeo,Retail
 DuPoint,PharmaChem
@@ -41,6 +51,9 @@ Irving Media,Entertainment
 Jagucar,Automotive
 Johanson,PharmaChem
 Krusty Krab,Retail
+LikeFilm,Entertainment
+Little,Retail
+Loan-U-Like,Finance
 Loland,Automotive
 Lowundai,Automotive
 Macrosoft,Technology
@@ -61,11 +74,13 @@ Nossan,Automotive
 Notflix,Entertainment
 Outel,Technology
 Overcast,Entertainment
+Panther,Retail
 Peoplescar,Automotive
 Porsh,Automotive
 Pritchett,Retail
 Purjo,Automotive
 Reckitt & Spill,PharmaChem
+Red Cow,Retail
 Ren-o,Automotive
 Rosewait,Retail
 Rosh,PharmaChem
@@ -78,6 +93,7 @@ Skynet,Technology
 Southern Rock,Finance
 Spamdirect,Retail
 Sparks & Mencer,Retail
+Thrucom,Entertainment
 Time Warmer,Entertainment
 Umbrella,Technology
 Vista,Finance
@@ -86,5 +102,7 @@ WOMAN,Automotive
 Walt Doesney,Entertainment
 Wartmart,Retail
 Watercloset Pooper,Finance
+Wetbay,Betting
 Wonka Industries,Retail
 Wowway,Technology
+Wronga,Finance
