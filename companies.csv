@@ -6,7 +6,9 @@ Almazan,Retail
 BADASF,PharmaChem
 BadBlokes,Betting
 Ballbuster,Entertainment
+Barberry,Clothing
 Barstuck’s,Food
+Benzo,Clothing
 Bet247,Betting
 Betunfair,Betting
 Bill Hill,Betting
@@ -21,13 +23,17 @@ Buy ’n’ Large,Technology
 Carblays,Finance
 Central Perk,Retail
 Citrus,Automotive
+Cooka-Coola,Food
 Corral,Betting
 Cyberdyne,Technology
 DAFT,Automotive
 Debt Direct,Finance
+Deliverpoo,Delivery
 DirectFirst,Finance
 Dorf,Automotive
 Drinkeo,Food
+DroPS,Delivery
+DrunKeNlY,Clothing
 DuPoint,PharmaChem
 Dull,Technology
 EA Spits,Entertainment
@@ -48,17 +54,22 @@ Goctor & Pramble,PharmaChem
 Goggle,Technology
 Grapple,Technology
 Gringotts,Finance
+Gushi,Clothing
+Harmani,Clothing
 Harry Potter,Technology
 Hasda,Retail
 Hell,Technology
 Hermanos,Retail
 Homies,Delivery
 Hooli,Other
+Huge Dross,Clothing
 Irving Media,Entertainment
 Jagucar,Automotive
 Johanson,PharmaChem
 Jurassic Park,Other
+Kelvin Cain,Clothing
 Krusty Krab,Food
+Land Lover,Automotive
 LikeFilm,Entertainment
 Little,Retail
 Loan-U-Like,Finance
@@ -88,6 +99,8 @@ Outel,Technology
 Overcast,Entertainment
 Parcelfarce,Delivery
 Peoplescar,Automotive
+Piggy Power,Betting
+PoopsiCo,Food
 Porsh,Automotive
 Pritchett,Retail
 Puker,Clothing
@@ -97,6 +110,7 @@ Red Cow,Food
 Ren-o,Automotive
 Rosewait,Retail
 Rosh,PharmaChem
+Saint Lawrence,Clothing
 Samesong,Technology
 Santadares,Finance
 Shill,PharmaChem
@@ -108,7 +122,11 @@ Soylent Green,Food
 Spamdirect,Retail
 Sparks & Mencer,Retail
 Spike,Clothing
+Spoilt Mail,Delivery
 Stalker,Technology
+Stella Knockoffs,Clothing
+SwEAT,Automotive
+TSaR,Automotive
 Tenpence,Entertainment
 Thrucom,Entertainment
 Time Warmer,Entertainment
@@ -126,3 +144,5 @@ Wetbay,Betting
 Wonka Industries,Retail
 Wowway,Technology
 Wronga,Finance
+YoHell,Delivery
+Young Ernest,Finance
