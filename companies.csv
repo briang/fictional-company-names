@@ -1,5 +1,5 @@
 Name,Sector
-Acme Corp,Retail
+Acme Corp,Manufacturing
 Adi Das,Clothing
 Alda,Retail
 Aligaga,Retail
@@ -23,7 +23,7 @@ Bubba Gump,Retail
 Bugger Kong,Food
 BurP,PharmaChem
 Busted Dynamics,Other
-Buy ’n’ Large,Technology
+Buy ’n’ Large,Retail
 Carblays,Finance
 Central Perk,Retail
 Citrus,Automotive
@@ -39,7 +39,7 @@ Dorf,Automotive
 Drinkeo,Food
 DroPS,Delivery
 DrunKeNlY,Clothing
-Dull,Technology
+Dull,Manufacturing
 DuPoint,PharmaChem
 EA Spits,Entertainment
 Eastern Electricity,Utilities
@@ -48,7 +48,7 @@ Eastern Power & Gas,Utilities
 Eastern Power,Utilities
 Eastern Utilities,Utilities
 Eastern Water,Utilities
-Eljee,PharmaChem
+Eljee,Manufacturing
 English Electricity,Utilities
 English Gas,Utilities
 English Power & Gas,Utilities
@@ -73,13 +73,13 @@ GaSKet,PharmaChem
 Globex Corporation,Other
 Goctor & Pramble,PharmaChem
 Goggle,Technology
-Grapple,Technology
+Grapple,Manufacturing
 Gringotts,Finance
 Gushi,Clothing
 Harmani,Clothing
-Harry Potter,Technology
+Harry Potter,Manufacturing
 Hasda,Retail
-Hell,Technology
+Hell,Manufacturing
 Hermanos,Retail
 Homies,Delivery
 Hooli,Other
@@ -106,8 +106,8 @@ McDiabetes,Food
 McRonalds,Food
 Mike,Clothing
 Mistercard,Finance
-Mitsusushi,PharmaChem
-MomCorp,Technology
+Mitsusushi,Manufacturing
+MomCorp,Manufacturing
 Monsters Inc,PharmaChem
 Morridaughters,Retail
 Multilever,Food
@@ -115,7 +115,7 @@ Murder King,Food
 Nessels,Food
 Nestlay,Food
 Ninecent,Entertainment
-No-key-a,Retail
+No-key-a,Manufacturing
 Northern Electricity,Utilities
 Northern Gas,Utilities
 Northern Power & Gas,Utilities
@@ -125,12 +125,12 @@ Northern Water,Utilities
 Nossan,Automotive
 Notflix,Entertainment
 OOPS,Delivery
-Outel,Technology
+Outel,Manufacturing
 Overcast,Entertainment
 Parcelfarce,Delivery
 Peoplescar,Automotive
 Piggy Power,Betting
-Pony,Retail
+Pony,Manufacturing
 PoopsiCo,Food
 Porsh,Automotive
 Pritchett,Retail
@@ -139,11 +139,11 @@ Purjo,Automotive
 Reckitt & Spill,PharmaChem
 Red Cow,Food
 Ren-o,Automotive
-Rocknrolla,Retail
+Rocknrolla,Manufacturing
 Rosewait,Retail
 Rosh,PharmaChem
 Saint Lawrence,Clothing
-Samesong,Technology
+Samesong,Manufacturing
 Santadares,Finance
 Scabbier,Automotive
 Scottish Electricity,Utilities
@@ -154,7 +154,7 @@ Scottish Utilities,Utilities
 Scottish Water,Utilities
 Sharon,PharmaChem
 Shill,PharmaChem
-ShowMi,Technology
+ShowMi,Manufacturing
 Ski,Entertainment
 Skynet,Technology
 Southern Electricity,Utilities
@@ -182,7 +182,7 @@ Trendi,Clothing
 Trustee’s Savings,Finance
 TSaR,Automotive
 Twelvecent,Entertainment
-Umbrella,Technology
+Umbrella,Manufacturing
 Vehement Capital,Finance
 Virtucon,Other
 Vista,Finance
@@ -206,7 +206,7 @@ Western Water,Utilities
 Wetbay,Betting
 WOMAN,Automotive
 Wonka Industries,Retail
-WowWay,Technology
+WowWay,Manufacturing
 Wronga,Finance
 YoHell,Delivery
 Young Ernest,Finance
