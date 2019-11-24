@@ -10,13 +10,19 @@ the list and repo.
 
 SECTOR|COUNT
 -|-
-Automotive|7
-Entertainment|6
-Finance|8
-PharmaChem|14
-Retail|22
-Technology|15
-TOTAL|72
+Automotive|21
+Betting|7
+Clothing|21
+Delivery|8
+Entertainment|15
+Finance|21
+Food|15
+Manufacturing|16
+PharmaChem|15
+Retail|18
+Technology|13
+Utilities|42
+TOTAL|212
 
 ## Data Source
 
